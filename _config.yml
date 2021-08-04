@@ -25,14 +25,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Erik Enbody
-email: erik.enbody@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Postdoctoral Researcher at Uppsala University.
+title: Ryan J. Keith
+email: drryankeith@gmail.com
+description: PhD candidate at The University of Sydney.
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://erikenbody.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: erikenbody
-github_username:  erikenbody
+url: "https://drryankeith.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: drryankeith
+github_username:  drryankeith
 
 # Build settings
 plugins:
@@ -43,13 +42,13 @@ plugins:
 # # Site Settings
 # theme: minimal-mistakes-jekyll
 # locale                   : "en"
-# title                    : "Erik Enbody"
+# title                    : "Ryan J. Keith"
 # title_separator          : "|"
 # name                     : 
 # description              : 
 # url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 # baseurl                  : # the subpath of your site, e.g. "/blog"
-# repository               : "eenbody/eenbody.github.io"
+# repository               : "drryankeith/drryankeith.github.io"
 # teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # # breadcrumbs            : false # true, false (default)
 # words_per_minute         : 200
@@ -292,3 +291,18 @@ plugins:
 #       comments: # true
 #       share: false
 #       related: false
+
+footer:
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:drryankeith@gmail.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "http://drryankeith.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/drryankeith"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/drryankeith"
