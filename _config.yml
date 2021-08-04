@@ -36,6 +36,7 @@ github_username:  drryankeith
 # Build settings
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 
 
