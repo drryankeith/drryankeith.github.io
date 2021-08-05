@@ -26,10 +26,11 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Ryan J. Keith
-email: drryankeith@gmail.com
-description: PhD candidate at The University of Sydney.
+description: Researcher and Educator
+image: /assets/images/avatar.png
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://drryankeith.com" # the base hostname & protocol for your site, e.g. http://example.com
+email: drryankeith@gmail.com
 twitter_username: drryankeith
 github_username:  drryankeith
 
